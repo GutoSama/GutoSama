@@ -1,6 +1,6 @@
 ## Salve!
 
--Procuro estágio<br>
--⚙️ I use daily: `.java`, `.js`, `.c`, `.r`, `.css`, `.html`
--Engenharia de Software 1/8<br>
+-💰Procuro estágio<br>
+-⚙️Aperfeiçoando: `.java`, `.js`, `.c`, `.r`, `.css`, `.html`<br>
+-📖Engenharia de Software 1/8<br>
 
