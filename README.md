@@ -1,7 +1,6 @@
 ## Salve!
 
 -Procuro estágio<br>
--Java, C, R, HTML5, CSS, JS<br>
+-⚙️ I use daily: `.java`, `.js`, `.c`, `.r`, `.css`, `.html`
 -Engenharia de Software 1/8<br>
-https://github.com/caneco/
-https://github.com/pr2tik1/pr2tik1
+
